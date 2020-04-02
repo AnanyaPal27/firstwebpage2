@@ -1,0 +1,74 @@
+h2{
+	color: red;
+	background-color:orange;
+	font-family:verdana; 
+}
+li{
+	color: red;
+	background-color:yellow;
+}
+h1{
+	color:white;
+	font-size: 500%;
+	background-color: black;
+	text-shadow: 20%; 
+}
+section 
+{
+	width: 30%;
+	display: inline-block;
+	margin-left: 2%;
+	float: left;
+	background-color: black;
+}
+details
+{
+	color: white;
+}
+a
+{
+	font-family: verdana;
+	font-weight: bolder;
+	color: white;
+	background-color: maroon;
+	margin-left: 23px;
+	padding:10px; 
+	border: solid;
+	text-decoration: none;
+}
+a:hover
+{
+	color: black;
+	background-color: orange;
+}
+progress
+{
+	color: white;
+}
+footer
+{
+	transform-style: preserve-3d;
+	color: white;
+	background-color: black;
+	margin-top: 500px;
+	padding-bottom: 20px;
+	clear: both;
+}
+header
+{
+	background-color: black;
+	padding-bottom: 20px;
+	text-align: center;
+	text-shadow: grey;
+	background: fixed center;
+}
+img
+{
+	width:125px;
+}
+body{
+	background-blend-mode: soft-light;
+	background: url(z1.jpg) repeat fixed center;
+	font-family:'Lato', 'Lucida Grande', 'Lucida Sans Unicode', Tahoma, Sans-Serif;}
+}
+
